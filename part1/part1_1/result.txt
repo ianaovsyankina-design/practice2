@@ -1,0 +1,13 @@
+/Users/yanaovsankina/Library/Java/JavaVirtualMachines/temurin-25.0.2/Contents/Home/bin/java -javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=50907 -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath /Users/yanaovsankina/Desktop/practice2/out/production/practice2 part1.part1_1.BankAccount
+Банковская система инициализирована
+Создание счёта #1
+Создание счёта #2
+[ACC-1] Алиса: 1000,00 руб.
+[ACC-2] Борис: 500,00 руб.
+После пополнения: [ACC-1] Алиса: 1500,00 руб.
+После снятия: [ACC-1] Алиса: 1300,00 руб.
+Ошибка: недостаточно средств
+Ошибка: сумма должна быть положительной
+Всего счетов: 2
+
+Process finished with exit code 0
